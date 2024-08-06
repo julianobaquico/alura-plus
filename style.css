@@ -59,7 +59,7 @@ body {
 }
 
 .container__imagem {
-    marin: 1em 0 2em 0;
+    margin: 1em 0 2em 0;
 }
 
 .container__caixa {
@@ -95,4 +95,13 @@ body {
     color: var(--cinza-secundaria);
     text-align: left;
 
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
 }
